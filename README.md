@@ -1,7 +1,7 @@
 # qt-notify
 Simple notifications for qt apps
 
-![](./img/screenshot.png)
+![](./img/screeshot.png)
 
 ```c++
 NotifyManager *manager = new NotifyManager(this);
